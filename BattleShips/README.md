@@ -1,5 +1,5 @@
 # BattleShips
-A program made to simulate a *[Battleship] (https://en.wikipedia.org/wiki/Battleship_(game)) game with networking capabilities. 
+A program made to simulate a [Battleship] (https://en.wikipedia.org/wiki/Battleship_(game)) game with networking capabilities. 
 This was a collaborative two week project for CS342 Fall 2017 Software Design at UIC.
 ## How to:
 1. Launch two instances of the game (first instance is defaulted as the server)
