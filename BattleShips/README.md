@@ -10,7 +10,14 @@ This was a collaborative two week project for CS342 Fall 2017 Software Design at
  - Instructions are given on the status bar 
  - Connection happens automatically when the first move is made.
  - needs to have the ship grid of both client and server to be able to attack.
+### Lessons Learned
+ - Create UML Diagram to organize design ideas
+ - Use model-view-controller design pattern 
+ - Familiarize with Agile Developement
+ - Develop a GUI using the Java Swing Library
 # Authors
  - Aaron Guevarra - Developed the GUI and window frames
  - Filip Serinski - Developed the Sockets for Networking Features
  - Simon Val Rankov - Integrated both the GUI and Networking 
+## Developed Using
+IntelliJ IDEA Community Edition 2017
