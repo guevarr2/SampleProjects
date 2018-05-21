@@ -3,7 +3,7 @@ A program to read, parse, and analyze iClicker data using modern C++.
 ## Notes
  - files.txt contains a list of names of iClicker files in xml format
  - xml files need to be in the same folder as the project folder
-### Built With
+### Developed Using
 Microsoft Visual Studio 2017
 ## Author
 Aaron Guevarra
