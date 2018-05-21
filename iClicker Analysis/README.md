@@ -6,7 +6,7 @@ A program to read, parse, and analyze iClicker data using C++.
 ### Built With
 Microsoft Visual Studio 2017
 ## Author
- - Aaron Guevarra
+Aaron Guevarra
 ### Lessons Learned
 I learned how to read, parse, and analyze xml files using modern C++. 
 I also learned how to use lamda expressions to create high level and efficient functions to avoid creating one-time use objects.
