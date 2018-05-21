@@ -1,0 +1,17 @@
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\FSLibrary.XML
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\FSLibrary.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\FSLibrary.pdb
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\FSharp.Core.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\System.ValueTuple.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\bin\Debug\FSharp.Core.xml
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\obj\Debug\FSLibrary.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\FSLibrary\obj\Debug\FSLibrary.pdb
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\FSLibrary.XML
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\FSLibrary.dll
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\FSLibrary.pdb
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\FSharp.Core.dll
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\System.ValueTuple.dll
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\bin\Debug\FSharp.Core.xml
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\obj\Debug\FSLibrary.dll
+D:\arrow\Documents\Programming Projects\Scrabble\FSLibrary\obj\Debug\FSLibrary.pdb

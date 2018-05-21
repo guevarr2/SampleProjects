@@ -1,0 +1,28 @@
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\FSharp.Core.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\FSLibrary.dll
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\FSLibrary.pdb
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\bin\Debug\FSLibrary.xml
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.Form1.resources
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.Cache
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+D:\Google Drive\17 Fall\CS 341\Visual Studio\proj05\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\FSharp.Core.dll
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\FSLibrary.dll
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\FSLibrary.pdb
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\bin\Debug\FSLibrary.xml
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.Form1.resources
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.Cache
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+D:\arrow\Documents\Programming Projects\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
