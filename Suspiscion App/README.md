@@ -6,7 +6,7 @@ to nearby law enforcers.
 - Implement said UI using Java
 - Navigate through different activities
 - Slide between fragments using a FragmentAdapter
-- Familiarize using Android Studio
+- Familiarize creating an app using Android Studio
 ## Authors
 Aaron Guevarra - Developed the funtionality of the UI Design
 Jacqueline Wodecki - Developed the UI elements in XML
