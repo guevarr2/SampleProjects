@@ -4,7 +4,7 @@ each word in decreasing order. Also has a functionality to find specific words w
 where * (star) is any character.
 ### Running
 Clone the repo and open "Scrabble.sln" using Visual Studio
-### Lessons Learned
+## Lessons Learned
 - Use F# to find words in a dictionary. 
 - Familiarize with how functional programming languages work.
 - Create "safe" recursive functions that won't overflow the stack. 
