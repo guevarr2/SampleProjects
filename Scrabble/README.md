@@ -5,9 +5,10 @@ where * (star) is any character.
 ### Running
 Clone the repo and open "Scrabble.sln" using Visual Studio
 ### Lessons Learned
-I learned how to use F# to find words in a dictionary. I became more familiar with how functional programming languages work.
-And I also learned how to create recursive functinos that won't overflow the stack. In addition, I learned how to use Visual
-Studio to create a GUI in C#.
+- Use F# to find words in a dictionary. 
+- Familiarize with how functional programming languages work.
+- Create "safe" recursive functions that won't overflow the stack. 
+- Use C# to create a GUI using Visual Studio
 ## Author
 Aaron Guevarra
 ### Developed Using
