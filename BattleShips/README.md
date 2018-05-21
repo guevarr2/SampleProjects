@@ -10,7 +10,7 @@ This was a collaborative two week project for CS342 Fall 2017 Software Design at
  - Instructions are given on the status bar 
  - Connection happens automatically when the first move is made.
  - needs to have the ship grid of both client and server to be able to attack.
-### Lessons Learned
+## Lessons Learned
  - Create UML Diagram to organize design ideas
  - Use model-view-controller design pattern 
  - Familiarize with Agile Developement
