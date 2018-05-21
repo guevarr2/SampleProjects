@@ -8,8 +8,8 @@ to nearby law enforcers.
 - Slide between fragments using a FragmentAdapter
 - Familiarize creating an app using Android Studio
 ## Authors
-Aaron Guevarra - Developed the funtionality of the UI Design
-Jacqueline Wodecki - Developed the UI elements in XML
-Tomasz Wegrzyn - Managed overall project goals, Developed the database
+- Aaron Guevarra - Developed the funtionality of the UI Design
+- Jacqueline Wodecki - Developed the UI elements in XML
+- Tomasz Wegrzyn - Managed overall project goals, Developed the database
 ### Developed Using
 Android Studio
