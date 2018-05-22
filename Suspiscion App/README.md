@@ -1,6 +1,6 @@
 # Suspiscion App
 An unfinished app that was develop during DemonHacks 2017. The idea was to allow users to anonymously report real-time issues
-to nearby law enforcers.
+to nearby law enforcers. At its current state, the app only has the UI implemented. 
 ## Lessons Learned
 - Declare UI elements in XML
 - Implement said UI using Java
