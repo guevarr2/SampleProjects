@@ -1,0 +1,8 @@
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\FSLibrary.XML
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\FSLibrary.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\FSLibrary.pdb
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\FSharp.Core.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\System.ValueTuple.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\bin\Release\FSharp.Core.xml
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\obj\Release\FSLibrary.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\FSLibrary\obj\Release\FSLibrary.pdb

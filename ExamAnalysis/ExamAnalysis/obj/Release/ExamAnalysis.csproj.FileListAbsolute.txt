@@ -1,0 +1,27 @@
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.exe.config
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.exe
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.pdb
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\FSharp.Core.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\FSLibrary.dll
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\bin\Release\FSLibrary.pdb
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csprojResolveAssemblyReference.cache
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.Form1.resources
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.Properties.Resources.resources
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csproj.GenerateResource.Cache
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csproj.CoreCompileInputs.cache
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.exe
+G:\My Drive\Archive\Year 17-18\17 Fall\CS 341\Visual Studio\proj04\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.pdb
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.exe.config
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.exe
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\ExamAnalysis.pdb
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\FSharp.Core.dll
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\FSLibrary.dll
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\FSLibrary.pdb
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\bin\Release\FSLibrary.xml
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csprojResolveAssemblyReference.cache
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.Form1.resources
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.Properties.Resources.resources
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csproj.GenerateResource.Cache
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.csproj.CoreCompileInputs.cache
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.exe
+D:\arrow\Documents\Programming Projects\ExamAnalysis\ExamAnalysis\obj\Release\ExamAnalysis.pdb
