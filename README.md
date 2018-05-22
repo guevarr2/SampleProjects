@@ -1,2 +1,2 @@
 # SampleProjects
-List of projects I've worked on over my college years.
+A few projects I've worked on over my college years.
