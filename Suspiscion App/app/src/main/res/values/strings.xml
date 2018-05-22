@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Suspicion Snitch</string>
+    <string name="tab_text_1">ACCOUNT</string>
+    <string name="tab_text_2">REPORT</string>
+    <string name="tab_text_3">FEED</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="login_name">Welcome to Suspicion Snitch</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="report">Online Report</string>
+    <string name="disclaimer">Disclaimer: In case of emergency please dial 911 or if filling an official report please press button below:</string>
+</resources>
