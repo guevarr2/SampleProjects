@@ -1,5 +1,8 @@
 # iClicker-Analysis
 A program to read, parse, and analyze iClicker data using modern C++. 
+![alt text](https://github.com/guevarr2/SampleProjects/blob/master/images/iClickerAnalysis001.PNG)
+### 
+![alt text](https://github.com/guevarr2/SampleProjects/blob/master/images/iClickerAnalysis002.PNG)
 ### Notes
  - files.txt contains a list of names of iClicker files in xml format
  - xml files need to be in the same folder as the project folder
